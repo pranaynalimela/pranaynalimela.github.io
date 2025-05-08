@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pranay Nalimela | Portfolio</title>
+  <style>
+    :root {
+      --bg: #f2f2f2;
+      --text: #333;
+      --section: #fff;
+      --accent: #007bff;
+    }
+
+    body.dark {
+      --bg: #1e1e1e;
+      --text: #ddd;
+      --section: #2c2c2c;
+      --accent: #66ccff;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    header {
+      background-color: var(--accent);
+      color: white;
+      padding: 2rem;
+      text-align: center;
+      position: relative;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+
+    .toggle-dark {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: white;
+      color: var(--accent);
+      border: none;
+      border-radius: 20px;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    section {
+      background-color: var(--section);
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      margin-bottom: 2rem;
+    }
+
+    h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.5rem;
+    }
+
+    h3 a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    h3 a:hover {
+      text-decoration: underline;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    .contact p a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #eee;
+      font-size: 0.9rem;
+    }
+
+    .resume-link {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: var(--accent);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+
+    .resume-link:hover {
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Pranay Nalimela</h1>
+    <p>Java Developer | Oracle DBA | System Admin</p>
+    <button class="toggle-dark" onclick="toggleDarkMode()">🌓 Dark Mode</button>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>👋 About Me</h2>
+      <p>
+        I'm an experienced developer and database administrator with a strong background in building and maintaining enterprise-level systems. I've worked on high-impact projects at Pepsi, handling everything from CRM development to system patching and optimization.
+      </p>
+      <a href="resume.pdf" target="_blank" class="resume-link">📄 View My Resume</a>
+    </section>
+
+    <section id="projects">
+      <h2>🚀 Projects</h2>
+
+      <div>
+        <h3><a href="https://github.com/pranaynalimela/project-one" target="_blank">Project One</a></h3>
+        <p><strong>Server and Database Patching:</strong> Led maintenance for Pepsi’s critical applications, ensuring Oracle databases were secure and up to date.</p>
+        <p><strong>Database Optimization:</strong> Improved performance with index tuning, query optimization, and ongoing maintenance for enterprise applications.</p>
+        <p><strong>System Administration:</strong> Managed patching, server upgrades, and environment consistency across test systems.</p>
+      </div>
+
+      <div style="margin-top: 2rem;">
+        <h3><a href="https://github.com/pranaynalimela/project-two" target="_blank">Project Two</a></h3>
+        <p><strong>CRM Marketing Project:</strong> Developed Java-based marketing solutions using Java, Spring, and Hibernate for Pepsi's CRM systems.</p>
+        <p><strong>Oracle Database Management:</strong> Designed and optimized SQL queries, procedures, and functions to ensure data accuracy and performance.</p>
+        <p><strong>System Enhancements:</strong> Contributed to system improvements that streamlined workflows and enhanced the user experience.</p>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>📫 Contact</h2>
+      <div class="contact">
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+        <p>GitHub: <a href="https://github.com/pranaynalimela" target="_blank">github.com/pranaynalimela</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Pranay Nalimela. Built with ❤️ and GitHub Pages.
+  </footer>
+
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark');
+    }
+  </script>
+</body>
+</html>
