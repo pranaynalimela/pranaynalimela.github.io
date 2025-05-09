@@ -51,9 +51,8 @@ Welcome to my GitHub Profile! I'm a passionate developer with a strong focus on 
 
 ## 💬 Let's Connect!
 - 🌐 [Portfolio](https://pranaynalimela.github.io)
-- 📫 **Email:** [pranaynalimela@example.com](mailto:pranaynalimela@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranaynalimela)
+- 📫 **Email:** [pranaynalimela09@gmail.com](mailto:pranaynalimela09@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranay-nalimela-23191116a)
 - 🐦 [Twitter](https://twitter.com/pranaynalimela)
-
 Thanks for visiting!
 # pranaynalimela.github.io
