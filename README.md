@@ -25,14 +25,21 @@ I'm a passionate developer and technology enthusiast with experience in both sof
 
 ## 🤝 Open to Opportunities
 I'm always open to collaborating on open-source projects, freelance work, or full-time roles in backend, database, DevOps, and web development domains.
+- Database Platforms: Oracle Database (10g/11g/12c/19c), MySQL, Microsoft SQL Server
+- Programming & Scripting: SQL, PL/SQL, Shell Scripting, Python, Java
+- Tools & Utilities: Oracle RMAN, Data Pump, SQL*Plus, Oracle Enterprise Manager (OEM), GoldenGate, Toad
+- High Availability & Disaster Recovery: Oracle RAC, Data Guard, ASM, Flashback Technology
+- Performance Tuning: AWR, ADDM, SQL Tuning Advisor, STATSPACK
+- Operating Systems: UNIX/Linux (Red Hat, AIX, Solaris), Windows Server
+- Cloud Platforms: Oracle Cloud Infrastructure (OCI), AWS RDS for Oracle
+  
 ## 📂 Highlighted Projects
 ### 🌐 [Portfolio Website](https://pranaynalimela.github.io)
-- A personal portfolio website to showcase my skills, projects, and resume.
 - **Technologies Used:** HTML, CSS, JavaScript, GitHub Pages
 
 ### 🛠️ [Open Source Contributions](#)
 -I thrive at the intersection of databases and cloud automation i enjoy turning complex requirements into simple, scalable solutions.
-- Regular contributor to [Open Source Project Name](#).
+- Regular contributor to [Open Source Project CRM](#).
 - Focused on improving performance, fixing bugs, and adding new features.
 
 ### 📦 [E-Commerce Application](#)
