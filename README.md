@@ -31,6 +31,7 @@ I'm always open to collaborating on open-source projects, freelance work, or ful
 - **Technologies Used:** HTML, CSS, JavaScript, GitHub Pages
 
 ### 🛠️ [Open Source Contributions](#)
+-I thrive at the intersection of databases and cloud automation i enjoy turning complex requirements into simple, scalable solutions.
 - Regular contributor to [Open Source Project Name](#).
 - Focused on improving performance, fixing bugs, and adding new features.
 
@@ -39,14 +40,12 @@ I'm always open to collaborating on open-source projects, freelance work, or ful
 - **Technologies Used:** React.js, Node.js, MongoDB, Stripe API
 - 
 ## 🎖️ Achievements
-- 🎓 **Certifications:** [Oracle Certified Professional (OCP) Training • Java SE 8 Programmer Certification ,AWS Certified Developer)](#)
+- 🎓 **Certifications:** Oracle Certified Professional (OCP) Training, Java SE 8 Programmer Certification, AWS Certified Developer.
 - 👏 **Hackathons:** Part of the winning team at [Hackathon Name] 2023.
 
 ## 📈 GitHub Stats
 ![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranaynalimela&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaynalimela&layout=compact&theme=radical)
-
-
 
 ## 💬 Let's Connect!
 - 🌐 [Portfolio](https://pranaynalimela.github.io)
