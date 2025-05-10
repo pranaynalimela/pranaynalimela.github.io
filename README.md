@@ -1,6 +1,6 @@
 # Hi there, I'm Pranay Nalimela 👋
 
-I'm Pranay Nalime​la, a Database Administrator and Java Developer with over 4 years of professional experience in Oracle database performance tuning, Java-based CRM solutions, and enterprise server maintenance. I specialize in high-availability systems, database optimization, and backend development for scalable enterprise apps.
+I'm Pranay Nalime​la, a Database Administrator and Java Developer with over 5 years of professional experience in Oracle database performance tuning, Java-based CRM solutions, and enterprise server maintenance. I specialize in high-availability systems, database optimization, and backend development for scalable enterprise apps.
 
 ## 🚀 About Me
 - 💻 I specialize in backend and database development, system administration, and web technologies.
