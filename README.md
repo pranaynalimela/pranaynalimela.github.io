@@ -1,5 +1,6 @@
 # Hi there, I'm Pranay Nalimela 👋
-I'm a passionate developer and technology enthusiast with experience in both software development and IT infrastructure. My mission is to build impactful solutions and continually expand my technical expertise.
+
+I'm Pranay Nalime​la, a Database Administrator and Java Developer with over 4 years of professional experience in Oracle database performance tuning, Java-based CRM solutions, and enterprise server maintenance. I specialize in high-availability systems, database optimization, and backend development for scalable enterprise apps.
 
 ## 🚀 About Me
 - 💻 I specialize in backend and database development, system administration, and web technologies.
@@ -34,7 +35,21 @@ I'm always open to collaborating on open-source projects, freelance work, or ful
 - Cloud Platforms: Oracle Cloud Infrastructure (OCI), AWS RDS for Oracle
   
 ## 📂 Highlighted Projects
-### 🌐 [Portfolio Website](https://pranaynalimela.github.io)
+### 📁 Project: CRM Marketing System Enhancement
+- **Objective**: Improved customer segmentation and targeting for marketing campaigns.
+- **Technologies Used**: Java, Spring, Hibernate, Oracle Database.
+- **Responsibilities**:
+  - Developed new modules for customer data analysis.
+  - Optimized existing SQL queries, reducing data retrieval time by 30%.
+  - Implemented data validation procedures to ensure data integrity.
+- **Outcome**: Enhanced marketing campaign efficiency, leading to a 15% increase in customer engagement.
+
+  Server & Database Maintenance (Oracle DBA):
+  - Led patching and upgrade operations for Pepsi’s production Oracle servers.
+  - Automated patching processes to reduce manual effort and improve reliability.
+  - Result: Reduced vulnerabilities and improved query execution speed by 30%.
+
+  ### 🌐 [Portfolio Website](https://pranaynalimela.github.io)
 - **Technologies Used:** HTML, CSS, JavaScript, GitHub Pages
 
 ### 🛠️ [Open Source Contributions](#)
@@ -47,8 +62,16 @@ I'm always open to collaborating on open-source projects, freelance work, or ful
 - **Technologies Used:** React.js, Node.js, MongoDB, Stripe API
 - 
 ## 🎖️ Achievements
+### 📜 Certifications
+- Oracle Certified Professional (OCP) – Oracle Database 12c Administrator.
+- Oracle Certified Associate (OCA) – Oracle Database 12c Administrator.
 - 🎓 **Certifications:** Oracle Certified Professional (OCP) Training, Java SE 8 Programmer Certification, AWS Certified Developer.
 - 👏 **Hackathons:** Part of the winning team at [Hackathon Name] 2023.
+
+Blog Section:
+### 📝 Blog Posts
+- Optimizing Oracle Database Performance: Best Practices.
+- Implementing Data Guard for High Availability.
 
 ## 📈 GitHub Stats
 ![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranaynalimela&show_icons=true&theme=radical)
