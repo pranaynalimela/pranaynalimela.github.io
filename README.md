@@ -77,6 +77,27 @@ Blog Section:
 ![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranaynalimela&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaynalimela&layout=compact&theme=radical)
 
+### 🚀 Skills
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+Animated Typing Header (Markdown + HTML hybrid):
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Oracle+DBA+%7C+Java+Backend+Developer;4%2B+Years+in+Enterprise+Tech+%F0%9F%93%B2;Spring+%7C+Oracle+%7C+AWS+%7C+Linux+%7C+Jenkins+%F0%9F%93%A7" alt="Typing SVG" />
+</h3>
+
+### 📜 Certifications and Badges
+![Oracle Certified Professional](https://img.shields.io/badge/Oracle%20DBA%20OCP-Professional-red?style=flat-square&logo=oracle)
+![Java SE 8 Certified](https://img.shields.io/badge/Java%20SE%208-Certified-blue?style=flat-square&logo=java)
+![AWS Certified Developer](https://img.shields.io/badge/AWS-Developer%20Associate-yellow?style=flat-square&logo=amazon-aws)
+
+
+🔗 **Live Demo**: [CRM Marketing Tool Demo](https://pranaynalimela.com).
+
 ## 💬 Let's Connect!
 - 🌐 [Portfolio](https://pranaynalimela.github.io)
 - 📫 **Email:** [pranaynalimela09@gmail.com](mailto:pranaynalimela09@gmail.com)
